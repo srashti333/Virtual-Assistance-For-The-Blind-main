@@ -1,10 +1,5 @@
 # Virtual Assistance For The Blind 
 
-<br>
-
-![](https://img.shields.io/github/forks/Candida18/Virtual-Assistance-For-The-Blind?style=for-the-badge) &emsp;  &emsp; 
-![](https://img.shields.io/github/stars/Candida18/Virtual-Assistance-For-The-Blind?style=for-the-badge) &emsp;  &emsp; 
-![](https://img.shields.io/github/license/Candida18/Virtual-Assistance-For-The-Blind?style=for-the-badge) &emsp; 
 
 <br>
 
@@ -60,12 +55,4 @@ So, we proposed a Voice-based Email System using AI that will make the email sys
 `python manage.py runserver`
 
 <br>
-
-## RESULTS :
-<b><a href="https://youtu.be/kbJEDQWIclQ">Click Here</a> to watch the project demonstration.<b>
-
-
-
-
-
 
